@@ -1,4 +1,6 @@
-Face Recognition System using PCA and ANN
+
+**Face Recognition System using PCA and ANN**
+
 📌 Overview
 
 This project implements a Face Recognition System using Principal Component Analysis (PCA) for feature extraction and an Artificial Neural Network (ANN) for classification. The model is trained on grayscale facial images to recognize different individuals.
